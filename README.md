@@ -26,7 +26,7 @@ Sagemath and other scientific tools.  You will have to create an
 account in order to use it.
 
 You can open the tutorials in Cocalc by following this link:
-<https://cocalc.com/github/defeo/cimpa-popayan>.
+<https://cocalc.com/github/defeo/cimpa-rabat>.
 
 After you open a notebook, click on "Edit your own copy". It will
 prompt you to create an account, if you haven't already done so, and
@@ -39,7 +39,7 @@ reproducible environments for scientific computation. No account is
 needed.
 
 You can open the tutorials in Binder by following this link:
-<https://mybinder.org/v2/gh/defeo/cimpa-popayan/master>.
+<https://mybinder.org/v2/gh/defeo/cimpa-rabat/master>.
 
 If launching hangs for more than a minute, give it another try by
 reloading the page, or clicking on the link again.
@@ -53,7 +53,7 @@ session.
 Below you'll find direct Binder links to the notebooks in this
 repository.  Click on them to jump straight to them.
 
-- [The notebook of the first tutorial](https://mybinder.org/v2/gh/defeo/cimpa-popayan/master?labpath=2023-10-23-rabat.ipynb) on elliptic curves, torsion points and the Frobenius endomorphism.
+- [The notebook of the first tutorial](https://mybinder.org/v2/gh/defeo/cimpa-rabat/master?labpath=2023-10-23-rabat.ipynb) on elliptic curves, torsion points and the Frobenius endomorphism.
 
 ## Acknowledgments
 
