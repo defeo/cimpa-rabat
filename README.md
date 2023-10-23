@@ -55,6 +55,8 @@ repository.  Click on them to jump straight to them.
 
 - [The notebook of the first tutorial](https://mybinder.org/v2/gh/defeo/cimpa-rabat/master?labpath=2023-10-23-rabat.ipynb) on elliptic curves, torsion points and the Frobenius endomorphism.
 
+- [The notebook of the second tutorial](https://mybinder.org/v2/gh/defeo/cimpa-rabat/master?labpath=2023-10-24-rabat.ipynb) on isogenies and complex multiplication.
+
 ## Acknowledgments
 
 This repository is based on <https://github.com/sagemath/sage-binder-env>.
